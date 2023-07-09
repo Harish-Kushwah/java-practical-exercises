@@ -45,7 +45,7 @@ The Practical 1 folder contains three sets of exercises related to Java Tools an
 
 To start this practical, follow these steps:
 
-1. Clone the repository: `https://github.com/Harish-Kushwah/java-practical-exercises.git`
+1. Clone the repository: `git clone https://github.com/Harish-Kushwah/java-practical-exercises.git`
 2. Navigate to Practical 1: Java Tools and IDE, Simple Java Programs.
 3. Choose the desired set folder (Set A, Set B, or Set C).
 4. Follow the instructions provided in the respective readme file to complete the exercises.

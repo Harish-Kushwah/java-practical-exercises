@@ -37,7 +37,6 @@ The Practical 2 folder contains three sets of exercises related to Array of Obje
 - [Set C](https://github.com/Harish-Kushwah/java-practical-exercises/tree/main/practical2/setC) 
   * Example 1 : [click here](https://github.com/Harish-Kushwah/java-practical-exercises/blob/main/practical2/setC/Ex1.java) 
   * Example 2 : [click here](https://github.com/Harish-Kushwah/java-practical-exercises/blob/main/practical2/setC/Ex2.java) 
-  * Example 3 : [click here](https://github.com/Harish-Kushwah/java-practical-exercises/blob/main/practical2/setC/Ex3.java) 
 
 ---
 
@@ -45,7 +44,7 @@ The Practical 2 folder contains three sets of exercises related to Array of Obje
 
 To start this practical, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/java-practical-exercises.git`
+1. Clone the repository: `git clone https://github.com/Harish-Kushwah/java-practical-exercises.git`
 2. Navigate to Practical 2: Array of Objects and Packages.
 3. Choose the desired set folder (Set A, Set B, or Set C).
 4. Follow the instructions provided in the respective readme file to complete the exercises.
