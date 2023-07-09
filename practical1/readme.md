@@ -1,6 +1,8 @@
-# Practical 1: Java Tools and IDE, Simple Java Programs
+# Java Tools and IDE, Simple Java Programs
 
 This practical focuses on Java Tools and IDE, as well as simple Java programs. It covers the basic concepts and tools necessary for Java programming and includes exercises to reinforce your understanding.
+
+---
 
 ## Topics Covered
 
@@ -9,31 +11,33 @@ This practical focuses on Java Tools and IDE, as well as simple Java programs. I
 - Writing and compiling simple Java programs
 - Running Java programs from the command line and IDE
 
+---
+
 ## Exercises
 
 The Practical 1 folder contains three sets of exercises related to Java Tools and IDE, as well as simple Java programs. Each set builds upon the previous one and covers different aspects of the topic. You can find the exercises in the following folders:
 
-- [Set A](./Practical%201/Set%201): Introduction to Java Tools and IDE
-- [Set B](./Practical%201/Set%203): Running Java programs from the command line and IDE and date time function
-- [Set C](./Practical%201/Set%202): Writing and compiling simple Java programs and menu driven programs
+- [Set A](https://github.com/Harish-Kushwah/java-practical-exercises/tree/main/practical1/setA): Introduction to Java Tools and IDE
+- [Set B](https://github.com/Harish-Kushwah/java-practical-exercises/tree/main/practical1/setB): Running Java programs from the command line and IDE and date time function
+- [Set C](https://github.com/Harish-Kushwah/java-practical-exercises/tree/main/practical1/setC): Writing and compiling simple Java programs and menu driven programs
 
 ---
 #### Click for source code
-- [Set A](.\javapractice\practical1) 
-  * Example 1 : [click here](./Practical%201/Set%201) 
-  * Example 2 : [click here](./Practical%201/Set%201) 
-  * Example 3 : [click here](./Practical%201/Set%201) 
-  * Example 4 : [click here](./Practical%201/Set%201) 
+- [Set A](https://github.com/Harish-Kushwah/java-practical-exercises/tree/main/practical1/setA) 
+  * Example 1 : [click here](https://github.com/Harish-Kushwah/java-practical-exercises/blob/main/practical1/setA/Ex1.java) 
+  * Example 2 : [click here](https://github.com/Harish-Kushwah/java-practical-exercises/blob/main/practical1/setA/Ex2.java) 
+  * Example 3 : [click here](https://github.com/Harish-Kushwah/java-practical-exercises/blob/main/practical1/setA/Ex3.java) 
+  * Example 4 : [click here](https://github.com/Harish-Kushwah/java-practical-exercises/blob/main/practical1/setA/Ex4.java) 
 
-- [Set B](.\javapractice\practical1) 
-  * Example 1 : [click here](./Practical%201/Set%201) 
-  * Example 2 : [click here](./Practical%201/Set%201) 
-  * Example 3 : [click here](./Practical%201/Set%201) 
+- [Set B](https://github.com/Harish-Kushwah/java-practical-exercises/tree/main/practical1/setB) 
+  * Example 1 : [click here](https://github.com/Harish-Kushwah/java-practical-exercises/blob/main/practical1/setB/Ex1.java) 
+  * Example 2 : [click here](https://github.com/Harish-Kushwah/java-practical-exercises/blob/main/practical1/setB/Ex2.java) 
+  * Example 3 : [click here](https://github.com/Harish-Kushwah/java-practical-exercises/blob/main/practical1/setB/Ex3.java) 
   
-- [Set C](.\javapractice\practical1) 
-  * Example 1 : [click here](./Practical%201/Set%201) 
-  * Example 2 : [click here](./Practical%201/Set%201) 
-  * Example 3 : [click here](./Practical%201/Set%201) 
+- [Set C](https://github.com/Harish-Kushwah/java-practical-exercises/tree/main/practical1/setC) 
+  * Example 1 : [click here](https://github.com/Harish-Kushwah/java-practical-exercises/blob/main/practical1/setC/Ex1.java) 
+  * Example 2 : [click here](https://github.com/Harish-Kushwah/java-practical-exercises/blob/main/practical1/setC/Ex2.java) 
+  * Example 3 : [click here](https://github.com/Harish-Kushwah/java-practical-exercises/blob/main/practical1/setC/Ex3.java) 
 
 ---
 
