@@ -16,6 +16,7 @@ Welcome to the Java Practical Exercises repository! This collection of practical
 * Select the practical number
   - Practical 1: [Click here](https://github.com/Harish-Kushwah/java-practical-exercises/tree/main/practical1) 
   - Practical 2: [Click here](https://github.com/Harish-Kushwah/java-practical-exercises/tree/main/practical2) 
+   - Practical 3: [Click here](https://github.com/Harish-Kushwah/java-practical-exercises/tree/main/practical3)
 
 
 
