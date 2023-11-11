@@ -58,5 +58,7 @@ public class Ex2 {
             officeStaff[i].showOfficeDetails();
         }
 
+        scan.close();
+
     }
 }
