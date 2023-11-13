@@ -13,27 +13,20 @@ The slips are organized into separate directories, one for each slip. You can ac
 ---
 
 ## Practical Slips
-1. [Slip 1](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip1)
-2. [Slip 2](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip2)
-3. [Slip 3](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip3)
-4. [Slip 4](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip4)
-5. [Slip 5](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip5)
-6. [Slip 6](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip6)
-7. [Slip 7](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip7)
-8. [Slip 8](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip8)
-9. [Slip 9](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip9)
-10. [Slip 10](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip10)
-11. [Slip 11](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip11)
-12. [Slip 12](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip12)
-13. [Slip 13](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip13)
-14. [Slip 14](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip14)
-15. [Slip 15](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip15)
-16. [Slip 16](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip16)
-17. [Slip 17](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip17)
-18. [Slip 18](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip18)
-19. [Slip 19](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip19)
-20. [Slip 20](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip20)
 
+
+| Slips 1-10                            | Slips 11-20                           |
+|---------------------------------------|---------------------------------------|
+| [Slip 1](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip1)   | [Slip 11](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip11) |
+| [Slip 2](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip2)   | [Slip 12](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip12) |
+| [Slip 3](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip3)   | [Slip 13](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip13) |
+| [Slip 4](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip4)   | [Slip 14](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip14) |
+| [Slip 5](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip5)   | [Slip 15](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip15) |
+| [Slip 6](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip6)   | [Slip 16](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip16) |
+| [Slip 7](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip7)   | [Slip 17](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip17) |
+| [Slip 8](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip8)   | [Slip 18](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip18) |
+| [Slip 9](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip9)   | [Slip 19](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip19) |
+| [Slip 10](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip10) | [Slip 20](https://github.com/Harish-Kushwah/java-practical-exercises/tree/slips/practicals/slip20)|
 
 
 ---
