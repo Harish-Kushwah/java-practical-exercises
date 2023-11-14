@@ -27,6 +27,7 @@ public class Ex1 {
                 String line;
                 while ((line = br.readLine()) != null) {
                     String words[] = line.split("\\s+");
+                    total_words+=words.length;
                     total_lines++;
                 }
 
@@ -34,10 +35,12 @@ public class Ex1 {
                 System.out.println("Total number of Lines :" + total_lines);
 
                 br.close();
+                fr.close();
             } catch (IOException e) {
 
                 e.printStackTrace();
             }
+          
 
         } else {
             System.out.println("File not found");
